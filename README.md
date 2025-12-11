@@ -97,11 +97,6 @@ What the contributor must achieve. Example: "Exploit the contract to drain 1 ETH
 - contract.sol
 - test/ (optional)
 
-<!-- 
-## How to run / verify
-1. `npm i`
-2. `npx hardhat test`
--->
 
 ## Rules
 - No private keys or harmful payloads.
